@@ -44,7 +44,7 @@
 <a href="https://github.com/claudemods" target="_blank"><img src="https://img.shields.io/badge/github-e06c75?style=for-the-badge&logo=github" /></a>
 
 <div align="center">
-![GitHub Repo Count](https://img.shields.io/github/repo-count/claudemods)
+![GitHub Repo Count](https://img.shields.io/github/repo-count/claudemods"
 
 </div>
 
