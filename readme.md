@@ -45,7 +45,7 @@
 
 <div align="center">
 	
-[![GitHub Repo Count](https://img.shields.io/github/repo-count/claudemods"
+
 
 </div>
 
