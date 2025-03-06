@@ -2,6 +2,9 @@
     <img width="750" src="https://i.postimg.cc/25Jsj3yD/claudemods-3-6-2025-2.png" alt="logo">
 </p>
 
+<p align="center">
+ <a href="https://www.rockstargames.com/" target="_blank"><img src="https://img.shields.io/badge/Gta-Mods-e06c75?style=for-the-badge&logo=games" /></a>
+
 
   <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux" /></a>
 	<a href="https://archlinux.org" target="_blank"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux" /></a>
