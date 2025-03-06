@@ -2,6 +2,15 @@
     <img width="750" src="https://i.postimg.cc/25Jsj3yD/claudemods-3-6-2025-2.png" alt="logo">
 </p>
 
+
+<div align="center">
+
+<h2 align="center"> Connect With Me On Social </h2>
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC6OgAhBq7Ocb5g1bQfVSd0Q?color=ff0000&label=Youtube&logo=youtube&style=palstic)](https://youtube.com/@claudemods)
+
 <p align="center">
  <a href="https://www.gtainside.com/user/mapmods100" target="_blank"><img src="https://img.shields.io/badge/Gta-Mods-e06c75?style=for-the-badge&logo=games" /></a>
 <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux" /></a>
@@ -29,13 +38,7 @@
 <img src="https://komarev.com/ghpvc/?username=claudemods&color=0E9C47&style=for-the-badge">
 
 
-<div align="center">
 
-<h2 align="center"> Connect With Me On Social </h2>
-
-<div align="center">
-
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC6OgAhBq7Ocb5g1bQfVSd0Q?color=ff0000&label=Youtube&logo=youtube&style=palstic)](https://youtube.com/@claudemods)
 
 <div align="center">
 <a href="https://github.com/claudemods" target="_blank"><img src="https://img.shields.io/badge/github-e06c75?style=for-the-badge&logo=github" /></a>
