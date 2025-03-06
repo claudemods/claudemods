@@ -37,6 +37,8 @@
 
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC6OgAhBq7Ocb5g1bQfVSd0Q?color=ff0000&label=Youtube&logo=youtube&style=palstic)](https://youtube.com/@claudemods)
 
+<div align="center">
+<a href="https://github.com/claudemods" target="_blank"><img src="https://img.shields.io/badge/github-e06c75?style=for-the-badge&logo=github" /></a>
 
 </div>
 
