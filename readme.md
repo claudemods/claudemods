@@ -56,7 +56,7 @@
 <!--🖼️OCTOCAT-->
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=claudemods&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=VHSgunzo&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats.vercel.app/api?username=claudemods&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=claudemods&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudemods&layout=compact&theme=merko">
