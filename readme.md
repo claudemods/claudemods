@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-##  [Sailing The 7 Seas](https://github.com/claudemods/ApexArchIsoCreatorGuiAppImage)
+##  **[Sailing The 7 Seas](https://github.com/claudemods/ApexArchIsoCreatorGuiAppImage)
 <div align="center">
 
 <h2 align="center"> Connect With Me On Social </h2>
