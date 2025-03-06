@@ -6,7 +6,6 @@
  <a href="https://www.gtainside.com/user/mapmods100" target="_blank"><img src="https://img.shields.io/badge/Gta-Mods-e06c75?style=for-the-badge&logo=games" /></a>
 
   <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux" /></a>
-<p align="center">
 
 <p align="center">
 <a href="https://archlinux.org" target="_blank"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux" /></a>
