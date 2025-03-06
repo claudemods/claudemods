@@ -3,6 +3,18 @@
 </p>
 
 
+  <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux" /></a>
+	<a href="https://archlinux.org" target="_blank"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux" /></a>
+           <a href="https://www.debian.org" target="_blank"><img src="https://img.shields.io/badge/DISTRO-Debian-CE0058?style=for-the-badge&logo=Debian" /></a>
+	     <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/DISTRO-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu" /></a>
+  </a>
+  <a href="https://chat.deepseek.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Built_Using-DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=4D6BFE" alt="Built Using DeepSeek">
+  <img src="https://i.postimg.cc/ydBbyvRt/Deepseek.jpg" alt="DeepSeek Logo" style="height: 30px; vertical-align: middle;">
+</a>
+
+
+
 <!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
@@ -21,14 +33,3 @@
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=claudemods&color=0E9C47&style=for-the-badge">
-
-
-  <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux" /></a>
-	<a href="https://archlinux.org" target="_blank"><img src="https://img.shields.io/badge/DISTRO-Arch-56b6c2?style=for-the-badge&logo=arch-linux" /></a>
-           <a href="https://www.debian.org" target="_blank"><img src="https://img.shields.io/badge/DISTRO-Debian-CE0058?style=for-the-badge&logo=Debian" /></a>
-	     <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/DISTRO-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu" /></a>
-  </a>
-  <a href="https://chat.deepseek.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Built_Using-DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=4D6BFE" alt="Built Using DeepSeek">
-  <img src="https://i.postimg.cc/ydBbyvRt/Deepseek.jpg" alt="DeepSeek Logo" style="height: 30px; vertical-align: middle;">
-</a>
