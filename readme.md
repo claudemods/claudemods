@@ -39,3 +39,19 @@
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=claudemods&color=0E9C47&style=for-the-badge">
+
+
+<div align="center">
+
+<h2 align="center"> Connect With Me On Social </h2>
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UC6OgAhBq7Ocb5g1bQfVSd0Q?color=ff0000&label=Youtube&logo=youtube&style=palstic)](https://youtube.com/@claudemods)
+
+
+</div>
+
+<div align="center">
+
+</div>
