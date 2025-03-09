@@ -37,7 +37,7 @@
   
   
 <a href="https://www.deepseek.com/"></a>
-<img alt="Homepage" src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/badge.svg?raw=true"/>
+<img alt="Homepage" src="https://i.postimg.cc/765RXj2C/Deep-Seek-Homepage.png?raw=true"/>
 
 <p align="center">
   <a href="https://github.com/claudemods?tab=repositories&sort=stargazers">
