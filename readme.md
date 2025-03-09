@@ -41,7 +41,7 @@
     <img 
       alt="Homepage" 
       src="https://i.postimg.cc/Hs2vbbZ8/Deep-Seek-Homepage.png?raw=true" 
-      style="height: 21px; width: auto;" 
+      style="height: 25px; width: auto;" 
     />
   </a>
 </div>
