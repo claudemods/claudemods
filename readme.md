@@ -36,7 +36,7 @@
 	<a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/DISTRO-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu" /></a>
   
   
-<div align="center" style="line-height: 1;">
+<div align="center" style="line-height: 3;">
   <a href="https://www.deepseek.com/"><img alt="Homepage"
     src="https://i.postimg.cc/765RXj2C/Deep-Seek-Homepage.png?raw=true"/></a>
 
