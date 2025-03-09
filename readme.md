@@ -38,7 +38,7 @@
   
   <p align="center">
   </a>
- <a href="https://www.deepseek.com/">Homepage<img alt="Badge" src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/badge.svg?raw=true"/></a>
+<a href="https://www.deepseek.com/"><img alt="Homepage" src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/badge.svg?raw=true"/></a>
 </a>
 
 <p align="center">
