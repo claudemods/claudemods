@@ -37,8 +37,14 @@
   
   
 <div align="center" style="line-height: 3;">
-  <a href="https://www.deepseek.com/"><img alt="Homepage"
-    src="https://i.postimg.cc/765RXj2C/Deep-Seek-Homepage.png?raw=true"/></a>
+  <a href="https://www.deepseek.com/" target="_blank">
+    <img 
+      alt="Homepage" 
+      src="https://i.postimg.cc/765RXj2C/Deep-Seek-Homepage.png?raw=true" 
+      style="height: 30px; width: auto;" 
+    />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://github.com/claudemods?tab=repositories&sort=stargazers">
