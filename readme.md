@@ -36,8 +36,9 @@
 	<a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/DISTRO-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu" /></a>
   
   
-<a href="https://www.deepseek.com/"></a>
-<img alt="Homepage" src="https://i.postimg.cc/765RXj2C/Deep-Seek-Homepage.png?raw=true"/>
+<div align="center" style="line-height: 1;">
+  <a href="https://www.deepseek.com/"><img alt="Homepage"
+    src="https://i.postimg.cc/765RXj2C/Deep-Seek-Homepage.png?raw=true"/></a>
 
 <p align="center">
   <a href="https://github.com/claudemods?tab=repositories&sort=stargazers">
