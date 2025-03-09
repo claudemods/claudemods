@@ -38,9 +38,7 @@
   
   <p align="center">
   </a>
-  <a href="https://chat.deepseek.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Built_Using-DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=4D6BFE" alt="Built Using DeepSeek">
-  <img src="https://i.postimg.cc/ydBbyvRt/Deepseek.jpg" alt="DeepSeek Logo" style="height: 30px; vertical-align: middle;">
+ <a href="https://www.deepseek.com/">Homepage<img alt="Badge" src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/badge.svg?raw=true"/></a>
 </a>
 
 <p align="center">
