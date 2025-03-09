@@ -40,13 +40,15 @@
   <a href="https://www.deepseek.com/" target="_blank">
     <img 
       alt="Homepage" 
-      src="https://i.postimg.cc/765RXj2C/Deep-Seek-Homepage.png?raw=true" 
-      style="height: 30px; width: auto;" 
+      src="https://i.postimg.cc/Hs2vbbZ8/Deep-Seek-Homepage.png?raw=true" 
+      style="height: 21px; width: auto;" 
     />
   </a>
 </div>
 
 <p align="center">
+
+ 
   <a href="https://github.com/claudemods?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/claudemods"/></a><a href="https://github.com/claudemods?tab=followers"><a href="https://github.com/claudemods?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/claudemods?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
