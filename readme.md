@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="750" src="https://i.postimg.cc/25Jsj3yD/claudemods-3-6-2025-2.png" alt="logo">
+    <img width="750" src="https://i.postimg.cc/9f8tTykw/claudemods-3-17-2025.gif" alt="logo">
 </p>
 
 <div align="center">
