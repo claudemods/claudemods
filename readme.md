@@ -6,7 +6,7 @@
 <div align="center">
 
  
-##  [Sailing The 7 Seas](https://github.com/claudemods/ApexArchIsoCreatorGuiAppImage)
+##  [Sailing The 7 Seas](https://github.com/claudemods/ACCU)
 
 <div align="center">
 
