@@ -51,7 +51,6 @@
 <p align="center">
 
  </div>
-href="https://github.com/claudemods?tab=followers"><a href="https://github.com/claudemods?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/claudemods?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
