@@ -31,15 +31,6 @@
  <a href="https://www.gtainside.com/user/mapmods100" target="_blank"><img src="https://img.shields.io/badge/Gta-Mods-e06c75?style=for-the-badge&logo=games" /></a>
 <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux" /></a>
 
-<h1 align="center">Supported Distros</h1>
-
-
-<div align="center">
-
-<!-- Alphabetical Logo Grid with Arch First -->
-| | | | |
-|:---:|:---:|:---:|:---:|
-| <img src="https://i.postimg.cc/7YK0GmMK/archlinux-logo.png" width="60"><br>Arch | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/120px-Debian-OpenLogo.svg.png" width="60"><br>Debian | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Fedora_icon_%282021%29.svg/120px-Fedora_icon_%282021%29.svg.png" width="60"><br>Fedora | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/120px-Logo-ubuntu_cof-orange-hex.svg.png" width="60"><br>Ubuntu |
 
   
 <div align="center" style="line-height: 3;">
