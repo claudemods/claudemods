@@ -12,7 +12,7 @@
 
 
 <div align="center">
-<a href="https://www.claudemodsreloaded.com" target="_blank"><img src="https://img.shields.io/badge/claudemods website v3.01.1-FFD700?style=for-the-badge&logo=website" /></a>
+<a href="https://www.claudemodsreloaded.com" target="_blank"><img src="https://img.shields.io/badge/claudemods website v3.01.2-FFD700?style=for-the-badge&logo=website" /></a>
 
 
 <a href="https://www.gtainside.com/user/mapmods100" target="_blank"><img src="https://img.shields.io/badge/gta inside v1.5-FFD700?style=for-the-badge&logo=website" /></a>
