@@ -31,7 +31,9 @@
  <a href="https://www.gtainside.com/user/mapmods100" target="_blank"><img src="https://img.shields.io/badge/Gta-Mods-e06c75?style=for-the-badge&logo=games" /></a>
 <a href="https://www.linux.org" target="_blank"><img src="https://img.shields.io/badge/OS-Linux-e06c75?style=for-the-badge&logo=linux" /></a>
 
-
+<a href="https://claude.com/claude-code" target="_blank">
+    <img src="https://img.shields.io/badge/Built_Using-Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Built Using Claude Code">
+  </a>
   
 <div align="center" style="line-height: 3;">
   <a href="https://www.deepseek.com/" target="_blank">
